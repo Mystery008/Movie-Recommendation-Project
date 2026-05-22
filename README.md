@@ -1,4 +1,4 @@
-# MachineLearningProjects
+# Movie Recommendation System
 - A content-based movie recommendation system built with Streamlit that suggests movies similar to your favorite ones. It uses a precomputed similarity matrix and fetches movie posters via the OMDb API for an interactive and visually engaging experience.
 
 ### Features
